@@ -10,6 +10,7 @@
 #include "util.h"
 #include "SysInfo.h"
 #include "ProcessContainer.h"
+#include "ProcessParser.h"
 
 using namespace std;
 
